@@ -40,6 +40,10 @@ This project demonstrates various image resizing techniques using Python and Ope
 ## Example Output
 Example upsampling and downsampling results are saved as images in the project directory. You can also view the visualizations directly in the notebook.
 
+## Example: Gaussian Downsampling vs. Lanczos Upsampling
+
+![Gaussian vs Lanczos](./Images/gaussian_vs_lanczos.png)
+
 ## How to Run
 1. Install requirements:
    ```bash
