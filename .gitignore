@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Image outputs (optional, comment out if you want to keep them in git)
+bicubic_downsampled_image.jpg
+bilinear_downsampled_image.jpg
+bilinear_upsampled_image.jpg
+gaussian_downsampled_image.jpg
+Lanczos_upsampled_image.jpg
+nearest_neighbor_upsampled_image.jpg
+IMG.jpg
