@@ -74,4 +74,3 @@ requirements.txt
 
 ## Author
 - Mostafa Eslam Elsayed
-- Date: May 2025
